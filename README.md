@@ -3,6 +3,9 @@
 Full- Stack course:
 * https://cs50.harvard.edu/web/2020/
 
+CodeCademy
+* https://www.codecademy.com/
+
 ***
 
 Bootstrap:
@@ -28,7 +31,6 @@ D3.js
 
 ***
 
-
 DJANGO Corey (BLOG)
 * https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
 
@@ -46,7 +48,8 @@ Documentación DJANGO
 GitHub
 * https://guides.github.com/
 * https://docs.github.com/en
-
+* https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow
+* https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB- 
 
 ***
 
