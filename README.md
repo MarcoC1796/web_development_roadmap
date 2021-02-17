@@ -8,6 +8,17 @@ CodeCademy
 
 ***
 
+### Best Practices
+HTML:
+* https://www.internetingishard.com/html-and-css/semantic-html/
+* https://medium.com/alistapart/writing-html-with-accessibility-in-mind-a62026493412
+
+CSS:
+* https://css-tricks.com/semantic-class-names/
+* https://maintainablecss.com/chapters/semantics/
+
+***
+
 Bootstrap:
 * https://getbootstrap.com/
 
